@@ -1,7 +1,7 @@
 Hi there! Welcome to my One-Hour Crossy Road Project.
 
 In utilzing my knowledge of teamwork from my Engineering Design Innovation and Entrepreneurship class as well as the query I just took for my Social Psychology class on how I would treat an AI introduced to me as my "teammate."
-Thus, my strategy was for how to utilize AI like they're members of my team using Gemini and Claude. 
+Thus, my strategy was for how to utilize AI like they're members of my team using Gemini and Claude with pygame. 
 
 Since Crossy Road already exists, I used Gemini, who has abundant information from the internet, to interpret what prompts I should write, how I should plan the game, and whatnot while I used two chats in Claude to discuss backend game logic, then frontend game design. I functioned as the manager who was the mediator between these two chats.
 
